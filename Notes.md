@@ -1,7 +1,7 @@
 # Sliding Window Variants ✔
 
 # Fixed ✔
-1) Maximum and minimum subarray of size k
+1) Maximum and minimum subarray of size k https://www.youtube.com/watch?v=KtpqeN0Goro&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&index=3
 2) First negative in every min size of k
 3) Count occurance of Anagram
 4) Maximum of all sub-array of size k
