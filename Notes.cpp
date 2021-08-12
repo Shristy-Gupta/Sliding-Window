@@ -101,7 +101,7 @@ int solve(string s, string ana){
 6) Max and min of every window size
 
 # Variable ✔
-1) Largest/ Smallest subarray of sum k
+1) Largest/ Smallest subarray of sum k //https://www.youtube.com/watch?v=cyu_nuW5utA&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&index=7
 2) Largest sub string  of , k distinct character
 3) Length of largest substring of, No repeating character
 4) Pick toy
