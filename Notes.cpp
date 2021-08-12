@@ -96,7 +96,7 @@ int solve(string s, string ana){
 // TC : O(n)
 // SC : O(distinctChars(ana))
 
-5) Maximum of all sub-array of size k
+5) Maximum of all sub-array of size k //https://www.youtube.com/watch?v=xFJXtB5vSmM&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&index=6
 6) Max and min of every window size
 
 # Variable ✔
